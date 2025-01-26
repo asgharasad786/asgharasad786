@@ -1,3 +1,5 @@
+<img src="banner_github.jpeg" alt="GitHub Banner" width="100%" />
+
 # 💫 About Me:
 I am a final-year software engineering student at Arid Institute of Management and Sciences, Lahore, with expertise in AI, machine learning, deep learning, and data science. I have completed an AI course from Wise College and gained practical experience through an internship at Wise Software House.<br><br>Passionate about data science and AI, I am proficient in Python programming and driven by a curiosity for solving data-driven problems. I am seeking internship opportunities to enhance my skills, collaborate on innovative projects, and make a meaningful impact in these fields.<br><br>
 
